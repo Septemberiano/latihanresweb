@@ -93,11 +93,7 @@ if (isset($_GET['confirm']) && $_GET['confirm'] == 'yes') {
     </div>
 </div>
 
-<!-- Optional: Pakai JavaScript confirm biar lebih keren kayak gambar kamu -->
-<script>
-    // Kalau mau langsung pake JS confirm tanpa halaman baru (bisa ganti)
-    // Tapi yang atas lebih aman buat pemula
-</script>
+
 
 </body>
 </html>
