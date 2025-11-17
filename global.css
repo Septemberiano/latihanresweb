@@ -1,0 +1,17 @@
+.bg-custom-blue {
+  background-color: #667EEA;
+}
+   body.bg-gradient-custom {
+      min-height: 100vh;
+      margin: 0;
+      background: linear-gradient(135deg, #667EEA, #764BA2);
+      color: white;}
+      .btn-custom-blue {
+  background-color: #667EEA;
+  color: white;
+  border: none;
+}
+.btn-custom-blue:hover {
+  background-color: #5a6ed1; /* sedikit lebih gelap */
+  color: white;
+}
